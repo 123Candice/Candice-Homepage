@@ -69,7 +69,8 @@ a {
 
 @media screen and (max-width: 42em) {
   .page-header {
-    padding: 2rem 1rem; } }
+    padding: 2rem 1rem; }
+}
 
 .project-name {
   margin-top: 0;
@@ -180,7 +181,7 @@ a {
   width: 100%;
   overflow: auto;
   word-break: normal;
-  word-break: keep-all; }
+}
   .main-content table th {
     font-weight: bold; }
   .main-content table th, .main-content table td {
